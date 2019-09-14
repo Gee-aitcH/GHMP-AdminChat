@@ -1,3 +1,8 @@
+Admin Chat Made By GH. Admins now have a Secret place to chat.
+
+### Features
+Only Feature: Admins can now use `/ac` to communicate in secret.
+
 ### Setup
 
 Clone this repository first.
