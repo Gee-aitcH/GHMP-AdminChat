@@ -1,4 +1,4 @@
-##Admin Chat Made By GH
+## Admin Chat Made By GH
 
 Admins now have a Secret place to chat.
 
