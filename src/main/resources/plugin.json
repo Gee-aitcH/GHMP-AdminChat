@@ -1,0 +1,7 @@
+{
+  "name": "GHAdminChat",
+  "author": "(G_H)",
+  "main": "ghplugins.GHAdminChat",
+  "description": "Admin Chat plugin for server.",
+  "version": 1.0
+}
